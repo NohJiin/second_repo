@@ -1,0 +1,5 @@
+## 곱하기 함수 생성
+
+void int mul_func(int n1, int n2){
+  return n1*n2;
+  }
